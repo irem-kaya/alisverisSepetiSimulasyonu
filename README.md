@@ -1,1 +1,1 @@
-# alisverisSepetiSimulasyonu
+Alışveriş Sepeti Simülasyonu
